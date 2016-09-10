@@ -1,0 +1,14 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "meanStack App",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "bower": "^1.7.9",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.16"
+  },
+  "author": "Prashant",
+  "license": "MIT"
+}
